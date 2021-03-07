@@ -1,0 +1,101 @@
+body, i, .cont{color:white;}
+
+
+.container{
+    height: unset;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.pp_image{
+    height: 200px;
+width: 200px;
+border-radius: 50%;
+object-fit: cover;
+object-position: top;
+}
+
+.personal{
+    background-color: #8a8e8a;
+}
+
+.personal, .skill{
+    padding: 10px;
+}
+.skill{
+    color: black;
+}
+
+#loc{
+    margin: 10px 8px;
+}
+a{
+    text-decoration: none;
+}
+
+.contact{
+    margin-left: 0px;
+text-align: left;
+margin-bottom: 20px;
+}
+
+.institute{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.degree{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.avg{
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.result{
+    margin: 20px 20px;
+}
+
+.objective{
+    text-align: justify;
+}
+
+.my-card{
+    padding: 15px;
+    
+}
+.my-card .card-title{
+    color: rgb(22, 23, 109);
+    font-weight: bold;
+}
+
+.my-card h3 .exi{
+    padding: 6px 8px;
+background: #484f48;
+font-size: 39px;
+border-radius: 50px;
+color: white;
+}
+.my-card h3 .pr-icon {
+    padding: 0 8px;
+    background: #484f48;
+    font-size: 35px;
+    border-radius: 50px;
+    color: white;
+}
+
+.company-title{
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+}
+.position{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.p-des{
+    text-align: justify;
+}
