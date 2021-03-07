@@ -99,3 +99,9 @@ color: white;
 .p-des{
     text-align: justify;
 }
+
+.ex{
+    list-style: square;
+    margin-left: 15px;
+    text-align: justify;
+}
